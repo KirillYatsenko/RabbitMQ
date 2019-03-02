@@ -1,0 +1,22 @@
+/home/titus/Documents/projects/RabbitMQ HelloWorld/Send/bin/Debug/netcoreapp2.2/Send.deps.json
+/home/titus/Documents/projects/RabbitMQ HelloWorld/Send/bin/Debug/netcoreapp2.2/Send.runtimeconfig.json
+/home/titus/Documents/projects/RabbitMQ HelloWorld/Send/bin/Debug/netcoreapp2.2/Send.runtimeconfig.dev.json
+/home/titus/Documents/projects/RabbitMQ HelloWorld/Send/bin/Debug/netcoreapp2.2/Send.dll
+/home/titus/Documents/projects/RabbitMQ HelloWorld/Send/bin/Debug/netcoreapp2.2/Send.pdb
+/home/titus/Documents/projects/RabbitMQ HelloWorld/Send/obj/Debug/netcoreapp2.2/Send.csprojAssemblyReference.cache
+/home/titus/Documents/projects/RabbitMQ HelloWorld/Send/obj/Debug/netcoreapp2.2/Send.csproj.CoreCompileInputs.cache
+/home/titus/Documents/projects/RabbitMQ HelloWorld/Send/obj/Debug/netcoreapp2.2/Send.AssemblyInfoInputs.cache
+/home/titus/Documents/projects/RabbitMQ HelloWorld/Send/obj/Debug/netcoreapp2.2/Send.AssemblyInfo.cs
+/home/titus/Documents/projects/RabbitMQ HelloWorld/Send/obj/Debug/netcoreapp2.2/Send.dll
+/home/titus/Documents/projects/RabbitMQ HelloWorld/Send/obj/Debug/netcoreapp2.2/Send.pdb
+/home/titus/Documents/projects/RabbitMQ_HelloWorld/Send/bin/Debug/netcoreapp2.2/Send.deps.json
+/home/titus/Documents/projects/RabbitMQ_HelloWorld/Send/bin/Debug/netcoreapp2.2/Send.runtimeconfig.json
+/home/titus/Documents/projects/RabbitMQ_HelloWorld/Send/bin/Debug/netcoreapp2.2/Send.runtimeconfig.dev.json
+/home/titus/Documents/projects/RabbitMQ_HelloWorld/Send/bin/Debug/netcoreapp2.2/Send.dll
+/home/titus/Documents/projects/RabbitMQ_HelloWorld/Send/bin/Debug/netcoreapp2.2/Send.pdb
+/home/titus/Documents/projects/RabbitMQ_HelloWorld/Send/obj/Debug/netcoreapp2.2/Send.csprojAssemblyReference.cache
+/home/titus/Documents/projects/RabbitMQ_HelloWorld/Send/obj/Debug/netcoreapp2.2/Send.csproj.CoreCompileInputs.cache
+/home/titus/Documents/projects/RabbitMQ_HelloWorld/Send/obj/Debug/netcoreapp2.2/Send.AssemblyInfoInputs.cache
+/home/titus/Documents/projects/RabbitMQ_HelloWorld/Send/obj/Debug/netcoreapp2.2/Send.AssemblyInfo.cs
+/home/titus/Documents/projects/RabbitMQ_HelloWorld/Send/obj/Debug/netcoreapp2.2/Send.dll
+/home/titus/Documents/projects/RabbitMQ_HelloWorld/Send/obj/Debug/netcoreapp2.2/Send.pdb

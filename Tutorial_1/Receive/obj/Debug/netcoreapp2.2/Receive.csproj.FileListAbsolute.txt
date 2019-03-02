@@ -1,0 +1,11 @@
+/home/titus/Documents/projects/RabbitMQ_HelloWorld/Receive/bin/Debug/netcoreapp2.2/Receive.deps.json
+/home/titus/Documents/projects/RabbitMQ_HelloWorld/Receive/bin/Debug/netcoreapp2.2/Receive.runtimeconfig.json
+/home/titus/Documents/projects/RabbitMQ_HelloWorld/Receive/bin/Debug/netcoreapp2.2/Receive.runtimeconfig.dev.json
+/home/titus/Documents/projects/RabbitMQ_HelloWorld/Receive/bin/Debug/netcoreapp2.2/Receive.dll
+/home/titus/Documents/projects/RabbitMQ_HelloWorld/Receive/bin/Debug/netcoreapp2.2/Receive.pdb
+/home/titus/Documents/projects/RabbitMQ_HelloWorld/Receive/obj/Debug/netcoreapp2.2/Receive.csprojAssemblyReference.cache
+/home/titus/Documents/projects/RabbitMQ_HelloWorld/Receive/obj/Debug/netcoreapp2.2/Receive.csproj.CoreCompileInputs.cache
+/home/titus/Documents/projects/RabbitMQ_HelloWorld/Receive/obj/Debug/netcoreapp2.2/Receive.AssemblyInfoInputs.cache
+/home/titus/Documents/projects/RabbitMQ_HelloWorld/Receive/obj/Debug/netcoreapp2.2/Receive.AssemblyInfo.cs
+/home/titus/Documents/projects/RabbitMQ_HelloWorld/Receive/obj/Debug/netcoreapp2.2/Receive.dll
+/home/titus/Documents/projects/RabbitMQ_HelloWorld/Receive/obj/Debug/netcoreapp2.2/Receive.pdb
